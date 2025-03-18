@@ -60,4 +60,3 @@ ios/Flutter/Generated.xcconfig
 
 # for fvm setup
 .fvm/
-!.fvm/fvm_config.json
