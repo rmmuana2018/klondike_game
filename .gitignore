@@ -57,3 +57,7 @@ android/build/
 ios/Flutter/Flutter.framework
 ios/Flutter/App.framework
 ios/Flutter/Generated.xcconfig
+
+# for fvm setup
+.fvm/
+!.fvm/fvm_config.json
